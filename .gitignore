@@ -1,0 +1,7 @@
+#build/helper stuff:
+/level_1/encode.py
+/level_2/encode.py
+/level_3/local_build
+/level_3/encode.py
+# IDE
+.idea/
